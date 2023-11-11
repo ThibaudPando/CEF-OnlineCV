@@ -3,11 +3,11 @@
 */
 @font-face {
     font-family: 'Railway';
-    src: url('../fonts/Railway/Railway.woff') format('woff');
+    src: url('../font/Railway.woff') format('woff');
 }
 @font-face {
     font-family: 'Railway';
-    src: url('../fonts/Railway/Railway-Italic.woff') format('woff');
+    src: url('../font/Railway-Italic.woff') format('woff');
     font-style: italic;
 }
 
