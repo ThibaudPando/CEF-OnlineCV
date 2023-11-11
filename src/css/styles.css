@@ -11,4 +11,12 @@
     font-style: italic;
 }
 
+/** Déclaration de variables **/
+
 /** Mise en forme des balises HTML : 1er Niveau **/
+html {
+    width: 1160px;
+    margin: 0 auto;
+    font-family: 'Railway', sans-serif;
+    background-color: #fff;
+}
