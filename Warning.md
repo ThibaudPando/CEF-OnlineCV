@@ -1,0 +1,21 @@
+# Instruction a suivre pour rendre le projet finaliser
+
+- [x] 1. Utiliser un getionnaire de versions (GitHub ici)
+- [x] 2. Suivre les recommendation du W3C
+- [x] 3. Utiliser un validateur HTML et CSS
+- [x] 4. Utiliser des balises sémantiques adapter
+- [x] 5. Faire en sorte que le site soit responsive et mobile first
+- [x] 6. Utiliser Flexbox et CSS Grid
+- [x] 7. Respecter une bonne hiérarchie de balise et structure de projet
+- [x] 8. Police d'écriture :
+    - [x] a. Railway (pour le corp de page) : https://fonts.google.com/specimen/Raleway
+    - [x] b. Lato (pour les titres) : https://fonts.google.com/specimen/Lato
+- [x] 9.
+- [x] 10.
+- [x] 11.
+- [x] 12.
+- [x] 13.
+- [x] 14.
+- [x] 15.
+- [x] 16.
+- [x] 17.
