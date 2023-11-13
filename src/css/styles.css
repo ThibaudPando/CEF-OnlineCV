@@ -34,6 +34,9 @@ header {
     flex-direction:column;
     justify-content: space-between;
 }
+header .header__job {
+    color: #fff
+}
 header .header__picture {
     width: 150px;
     height: 150px;
@@ -58,7 +61,7 @@ header h1 {
 div.contact {
     background-color: var(--color-gris);
     color: #fff;
-    font-size: 1.2rem;
+    font-size: 1.4rem;
     font-weight: bold;
 
     height: 200px;
