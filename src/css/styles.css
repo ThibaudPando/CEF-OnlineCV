@@ -92,7 +92,6 @@ aside.left__side {
     width: 30%;
     background-color: var(--color-bordeau);
     padding: 20px;
-    border-radius: 5px;
 
     color: #fff;
     .side__title {
